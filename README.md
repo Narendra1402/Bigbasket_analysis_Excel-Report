@@ -1,4 +1,4 @@
-# 🛒 Grocery Sales Analysis Dashboard – Excel Project
+# 🛒 Bigbasket Sales Analysis Dashboard – Excel Project
 
 This project presents a comprehensive sales performance dashboard built using Microsoft Excel to visualize and analyze key business metrics for a grocery business. The dashboard helps stakeholders quickly understand trends, customer behavior, and category-wise performance to support data-driven decisions.
 
