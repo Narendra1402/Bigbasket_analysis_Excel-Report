@@ -2,7 +2,7 @@
 
 This project presents a comprehensive sales performance dashboard built using Microsoft Excel to visualize and analyze key business metrics for a grocery business. The dashboard helps stakeholders quickly understand trends, customer behavior, and category-wise performance to support data-driven decisions.
 
-<img width="1003" height="540" alt="UberExcel" src="https://github.com/user-attachments/assets/42fae8db-7962-4fcf-bf3a-2eed07dda793" />
+<img width="934" height="520" alt="UberExcel" src="https://github.com/user-attachments/assets/a0fd4f5b-3b11-412c-96a0-da86da574747" />
 
 ## 🧠 Objective
 
